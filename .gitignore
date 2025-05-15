@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+django/myenv
+django/venv
+django/db.sqlite3
+frontend/node_modules
+django/.idea
